@@ -1,7 +1,7 @@
 """HW2 · club.py: the club and its chat bot. Practises Session 4 (each class has one job),
 Session 5 (importing your own modules and the standard library) and Session 6 (catching only
 the errors you expect)."""
-
+##Cyberpunk2077 is the best game ever, and I will never stop playing it
 from errors import SignupError, UnknownEventError
 from event import Event
 from collections import Counter
